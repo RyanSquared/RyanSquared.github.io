@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on the recent (5.7.0) NPM bug."
 date:   2018-02-23 09:25:00 -0600
-categories: npm node security
+categories: security
 ---
 
 There was a bug in NPM recently, as of version 5.7.0. Let's get right into the
