@@ -114,6 +114,11 @@ export NODE_PATH="$HOME/.npm-packages/lib/node_modules"
 export NPM_CONFIG_PREFIX="$HOME/.npm-packages"
 ```
 
+Want to install Flask, for Python? `pip install --user flask`. Bam. Want to run
+Jekyll to build this site? `gem install jekyll`. Bam. Want to install luacheck
+and lint your code? `luarocks-5.3 install --local luacheck`. Bam. No issues, no
+problems, and it all works.
+
 As you can see, Node.js is a bit tricky to set up in this way, but it is
 definitely possible. Almost every package manager has a "user" variant, so
 you can install software as a user rather than as root.
