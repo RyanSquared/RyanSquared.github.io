@@ -27,7 +27,9 @@ def index():
 
 @app.template_filter()
 def vue(item):
-    return "{{ " + item + " }}"
+    # If you see anything about "raw", blame the blog engine, not me. If not,
+    # ignore these comments.
+    {% raw %}return "{{ " + item + " }}"{% endraw %}
 
 
 app.run()
