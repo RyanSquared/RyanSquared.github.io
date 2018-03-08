@@ -22,6 +22,7 @@ Rust, and Ruby.
 
 This blog is rendered using [Jekyll][jekyll-organization].
 
+[mediapanel-website]: https://getmediapanel.com
 [jekyll-organization]: https://github.com/jekyll
 [things]: https://github.com/RyanSquared
 [lua-http-pr-93]: https://github.com/daurnimator/lua-http/pull/79
