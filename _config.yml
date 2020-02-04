@@ -16,9 +16,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: RyanSquared's blog
-email: vandor2012@gmail.com
+email: ryan@hashbang,sh
 description: >- # this means to ignore newlines until "baseurl:"
-  Security. Romance. Entertainment. I suck at all of it.
+  Cypherpunk chat protocol nerd |
+  Lead developer @ mediaPanel |
+  Admin @ hashbang.sh |
+  PGP: 8333F292B1BBD334A61E6F566785F7AF28DE7081
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ryansquared.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IAmRyanSquared
