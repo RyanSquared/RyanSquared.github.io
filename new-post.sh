@@ -5,7 +5,7 @@ cat > $filename <<END
 ---
 layout: post
 title:  "$*"
-date:   $(date '+%Y-%m-%d %H:%M:%S %z')
+date:   "$(date '+%Y-%m-%d %H:%M:%S %z')"
 ---
 END
 
